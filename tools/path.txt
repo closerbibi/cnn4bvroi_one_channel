@@ -1,0 +1,2 @@
+../../voxnet/scripts/train_dir/{classname}_{instance}_{rot}.npy
+../../voxnet/scripts/test_dir/{classname}_{instance}_{rot}.npy
