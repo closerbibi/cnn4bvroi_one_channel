@@ -41,7 +41,7 @@ layer {
   convolution_param {
     num_output: 96
     kernel_size: 11
-    stride: 1
+    stride: 4
     weight_filler {
       type: "gaussian"
       std: 0.01
